@@ -86,8 +86,8 @@ alias home='cd ~/'
 #take me to my repos
 alias repos='cd ~/Documents/Repos'
 
-#sublime edit
-alias se='open -a "Sublime Text 2"'
+#visual studio
+alias ed='open -a "Visual Studio Code"'
 
 export PATH="$HOME/.bin:$PATH"
 
